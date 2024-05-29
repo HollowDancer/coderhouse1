@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "nombre": "Huevos",
+      "precio": 25,
+      "img":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPyB7IJKK_cPNEfEpRz4x9bPJh8hM9ZbRVg3lpNIS7Q&s",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Harina",
+      "precio": 50,
+      "img":
+        "https://images.ecestaticos.com/WBp24vmd9x9S722ZiqGWgPaf0w0=/0x109:2119x1301/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6be%2F87b%2F448%2F6be87b448c2cf27ea55a994c163556d6.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Leche",
+      "precio": 100,
+      "img":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIFTfoNPTrayDyzHMHPuPQGlPhKofQPPWw40zHNyodsA&s",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Gaseosa",
+      "precio": 150,
+      "img":
+        "https://mayoristaelgringo.com.ar/wp-content/uploads/2023/01/7798113300010-17.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Pollo",
+      "precio": 400,
+      "img":
+        "https://masonlineprod.vtexassets.com/arquivos/ids/166612/Pollo-Fresco-X-3-Kg-1-17088.jpg?v=637835138771500000",
+      "cantidad": 1    
+    }, 
+    {
+      "id": 6,
+      "nombre": "Carne",
+      "precio": 500,
+      "img":
+        "https://www.cocinista.es/download/bancorecursos/recetas/cocinar-la-carne-de-vacuno.jpg",
+      "cantidad": 1
+    }
+  ]
